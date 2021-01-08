@@ -1,0 +1,40 @@
+{
+	"ItemList": [
+		{
+			"Name": "Default",
+			"PrefabPath": "",
+			"ImagePath": "",
+			"UsageOrder": -1,
+			"UsagePara":  0
+		},
+		{
+			"Name": "Grass",
+			"PrefabPath": "Prefab/Item/Model/Grass",
+			"ImagePath": "Prefab/Item/Image/Grass",
+			"UsageOrder": 0,
+			"UsagePara": 0
+		},
+		{
+			"Name": "Earth",
+			"PrefabPath": "Prefab/Item/Model/Earth",
+			"ImagePath": "Prefab/Item/Image/Earth",
+			"UsageOrder": 0,
+			"UsagePara": 2
+		},
+		{
+			"Name": "Rock",
+			"PrefabPath": "Prefab/Item/Model/Rock",
+			"ImagePath": "Prefab/Item/Image/Rock",
+			"UsageOrder": 0,
+			"UsagePara": 3
+		},
+		{
+			"Name": "Wood",
+			"PrefabPath": "Prefab/Item/Model/Wood",
+			"ImagePath": "Prefab/Item/Image/Wood",
+			"UsageOrder": 0,
+			"UsagePara": 1
+		}
+	]
+
+}
